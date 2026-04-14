@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Database
+*.db
+data/customers.db
+
+# PDF policy files
+data/policies/*.pdf
+
+# Vector store
+vectorstore/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+# Core LangChain
+langchain==0.3.23
+langgraph==0.3.21
+langchain-community==0.3.21
+langchain-core==0.3.51
+
+# LLM Provider (Groq - free)
+langchain-groq==0.3.2
+
+# Embeddings (free, local)
+sentence-transformers==3.4.1
+
+# Vector Database
+chromadb
+
+# SQL Database
+sqlalchemy==2.0.40
+
+# PDF loading
+pypdf==5.4.0
+
+# UI
+streamlit==1.43.2
+
+# Utilities
+faker==37.1.0
+python-dotenv==1.1.0
